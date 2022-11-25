@@ -28,9 +28,6 @@ char* StrCpy(char* src){
     
 }
 
-int main(){
-
-}
 
 
 
